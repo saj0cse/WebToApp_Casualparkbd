@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Casualparkbd</string>
+    <string name="website_link">https://www.casualparkbd.com/</string>
+    <string name="internet_alert">There seems to be no active internet connection.\nPlease check your internet connection\n<b> refresh again.</b> </string>
+
+</resources>
